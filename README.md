@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://remixmeme.com/templates/uptown-funk-ai-trend"><img src="https://img.shields.io/badge/Live-remixmeme.com-111111?style=for-the-badge" alt="Live" /></a>
   <a href="https://remixmeme.com/zh/templates/uptown-funk-ai-trend"><img src="https://img.shields.io/badge/中文-remixmeme.com%2Fzh-2ea44f?style=for-the-badge" alt="ZH" /></a>
-  <a href="https://maynor996.github.io/rm-uptown-funk-ai-trend/"><img src="https://img.shields.io/badge/Pages-landing-6c5ce7?style=for-the-badge" alt="Pages" /></a>
+  <a href="https://maynor996.github.io/uptown-funk-ai-trend/"><img src="https://img.shields.io/badge/Pages-landing-6c5ce7?style=for-the-badge" alt="Pages" /></a>
 </p>
 
 **Uptown Funk AI: Lead the Funk Crew Down the Street** is one of the AI meme / viral templates on **[Remix Meme](https://remixmeme.com)** (Awesome Meme Video).
@@ -21,7 +21,7 @@ The Uptown Funk AI trend puts your own face at the front of a funk street crew i
 | **Template** | https://remixmeme.com/templates/uptown-funk-ai-trend |
 | **中文** | https://remixmeme.com/zh/templates/uptown-funk-ai-trend |
 | **Catalog home** | https://remixmeme.com |
-| **This landing** | https://maynor996.github.io/rm-uptown-funk-ai-trend/ |
+| **This landing** | https://maynor996.github.io/uptown-funk-ai-trend/ |
 
 ## How to use
 
